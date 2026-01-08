@@ -114,7 +114,8 @@ export default function Home() {
           <h1 className="text-4xl font-bold mb-2 text-center bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
             7K-AutoCoupon
           </h1>
-          <p className="text-center text-gray-400 mb-8">ระบบแลกคูปองอัตโนมัติ Seven Knights</p>
+          <p className="text-center text-gray-400 mb-1">ระบบแลกคูปองอัตโนมัติ Seven Knights</p>
+          <p className="text-center text-gray-500 text-xs mb-8">Last Updated: 8 January 2026</p>
 
           <div className="space-y-6">
             <div>
@@ -248,6 +249,13 @@ export default function Home() {
             )}
           </div>
         )}
+
+        {/* Footer Credit */}
+        <div className="mt-8 text-center">
+          <p className="text-gray-500 text-sm">
+            Made with 💜 by <span className="text-purple-400 font-semibold">Wallock</span>
+          </p>
+        </div>
       </div>
     </div>
   )

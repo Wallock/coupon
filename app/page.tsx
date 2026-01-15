@@ -115,7 +115,7 @@ export default function Home() {
             7K-AutoCoupon
           </h1>
           <p className="text-center text-gray-400 mb-1">ระบบแลกคูปองอัตโนมัติ Seven Knights</p>
-          <p className="text-center text-gray-500 text-xs mb-8">Last Updated: 8 January 2026</p>
+          <p className="text-center text-gray-500 text-xs mb-8">Last Updated: 15 January 2026</p>
 
           <div className="space-y-6">
             <div>

@@ -585,7 +585,7 @@ export default function Home() {
             7K-Tools
           </h1>
           <p className="text-gray-400 mb-1">เครื่องมือสำหรับ Seven Knights</p>
-          <p className="text-gray-500 text-xs">Last Updated: 16 January 2026</p>
+          <p className="text-gray-500 text-xs">Last Updated: 22 January 2026</p>
         </div>
 
         {/* Tab Navigation */}
